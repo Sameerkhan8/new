@@ -1,4 +1,10 @@
 
 this file is edited by prod
 
+<<<<<<< HEAD
 this file is edited by prod
+=======
+i>>>>>>> prod
+prod
+ commit
+>>>>>>> master

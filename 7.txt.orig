@@ -1,12 +1,10 @@
-this is 7.txt
-<<<<<<< HEAD
+
 this file is edited by prod
 
-=======
 <<<<<<< HEAD
-this file is edited by dev
-=======
 this file is edited by prod
-
->>>>>>> prod
->>>>>>> dev
+=======
+i>>>>>>> prod
+prod
+ commit
+>>>>>>> master
